@@ -18,7 +18,6 @@ Um dos meus projetos que mais me orgulha é a minha implementação homomórfica
 
 ![Cryptography](https://img.shields.io/badge/Cryptography-4B0082?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
