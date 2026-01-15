@@ -7,7 +7,7 @@ Já trabalhei com Python, C, C++, Java, Rust, CUDA e OpenMP, explorando desde al
 
 Me motiva trabalhar com projetos desafiadores, gosto de aprender a fundo como as coisas funcionam e compartilhar conhecimento :)
 
-Um dos meus projetos que mais me orgulha é a minha implementação homomórfica da cifra Chacha20, resultado da minha Iniciação Científica. Se quiser dar uma olhada, basta clicar aqui: https://github.com/gabijacob/ETC
+Um dos projetos que mais me orgulha é a minha implementação homomórfica da cifra Chacha20, resultado da minha Iniciação Científica. Se quiser dar uma olhada, basta clicar aqui: https://github.com/gabijacob/ETC
 
 ### -> Habilidades
 
