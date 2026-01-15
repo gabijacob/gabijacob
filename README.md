@@ -1,6 +1,6 @@
 # Gabriela Jacob - Estudante de Engenharia de Computação na Unicamp
 
-### -> Sobre mim
+## -> Sobre mim
 
 Sou estudante de computação, com foco em segurança da informação e criptografia, e forte interesse em sistemas, paralelismo e redes.
 Já trabalhei com Python, C, C++, Java, Rust, CUDA e OpenMP, explorando desde algoritmos paralelos até criptografia.
@@ -9,7 +9,7 @@ Me motiva trabalhar com projetos desafiadores, gosto de aprender a fundo como as
 
 Um dos projetos que mais me orgulha é a minha implementação homomórfica da cifra Chacha20, resultado da minha Iniciação Científica. Se quiser dar uma olhada, basta clicar aqui: https://github.com/gabijacob/ETC
 
-### -> Habilidades
+## -> Habilidades
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
